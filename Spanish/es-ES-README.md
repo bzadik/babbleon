@@ -1,3 +1,3 @@
 # babbleon
 
-This is a line of new text to transate. Added last minute. Final. This is it! Added to see what happens to task.
+Esta es una línea de nuevo texto para transatlánar. Añadido de última hora. final. ¡Esto es! Agregada para ver qué sucede con la tarea.
